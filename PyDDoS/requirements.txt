@@ -1,6 +1,0 @@
-requests
-wget
-argparse
-colorama
-humanfriendly
-scapy
